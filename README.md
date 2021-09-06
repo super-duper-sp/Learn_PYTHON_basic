@@ -16,5 +16,5 @@
 <div align="left ">
 <h3 align="left">View AS:</h3>
 <p ><a href="https://github.com/super-duper-sp/Learn_PYTHON_basic/blob/ALL-REPO/Learn%20Python.pdf"> PDF</a></p>
-<p ><a href=https://github.com/super-duper-sp/Learn_PYTHON_basic/blob/ALL-REPO/Learn%20Python.pptx">PPTX</a></p>
+<p ><a href="https://github.com/super-duper-sp/Learn_PYTHON_basic/blob/ALL-REPO/LearnPython.pptx">PPTX</a></p>
 </div>
